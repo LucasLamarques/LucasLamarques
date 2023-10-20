@@ -3,7 +3,7 @@
 ### Tecnologias que eu uso:
 
 <div style="display: inline_block">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img align="center" alt="sass" width="84px" height="28px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png"> <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img align="center" alt="javascript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="84px" height="28px"> </div>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img align="center" alt="sass" width="84px" height="28px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/sass_button_icon_151921.png"> <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> <img align="center" alt="javascript" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" width="84px" height="84px"> </div>
 
 <br>
 <br>
