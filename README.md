@@ -50,7 +50,7 @@ Tenho interesse em criar aplicações de qualidade, entender como os sistemas fu
 
 ## 📫 Contato
 
-📧 **E-mail:** [lucas25maia@gmail.com](mailto:lucas25maia@gmail.com)
+📧 **E-mail:** lucaslamarquesdev@gmail.com
 
 ---
 
